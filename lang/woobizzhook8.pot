@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Woobizz Hook 8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-14 21:40+0000\n"
+"POT-Creation-Date: 2018-06-09 14:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,16 +14,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/"
 
-#: woobizz-hook-8.php:24
-msgid "Empty your cart"
-msgstr ""
-
-#. Name of the plugin
-msgid "Woobizz Hook 8"
-msgstr ""
-
 #. Description of the plugin
-msgid "Add empty cart button on cart page"
+msgid "Add a button to empty the entire cart on the cart page"
+msgstr ""
+
+#: woobizz-hook-8.php:23
+msgid "Empty your cart"
 msgstr ""
 
 #. URI of the plugin
@@ -31,6 +27,10 @@ msgstr ""
 msgid "http://woobizz.com"
 msgstr ""
 
+#. Name of the plugin
+msgid "Woobizz Hook 8"
+msgstr ""
+
 #. Author of the plugin
-msgid "Woobizz"
+msgid "WOOBIZZ.COM"
 msgstr ""
